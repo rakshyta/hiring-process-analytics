@@ -9,15 +9,11 @@ fresher or any other individual.
 
 **Approach:**
 
-• Download all data provided
-
-• Understanding the data
-
-• Checking for outliers
-
-• Removing outliers
-
-• Drawing data summary
+1. Download all data provided
+2. Understanding the data
+3. Checking for outliers
+4. Removing outliers
+5. Drawing data summary
 
 Explanation – Firstly, carried out the exploratory data analysis using Excel data analysis
 tools package. Calculated descriptive statistics on salary offered column. Found out missing
