@@ -10,9 +10,13 @@ fresher or any other individual.
 **Approach:**
 
 • Download all data provided
+
 • Understanding the data
+
 • Checking for outliers
+
 • Removing outliers
+
 • Drawing data summary
 
 Explanation – Firstly, carried out the exploratory data analysis using Excel data analysis
@@ -24,4 +28,5 @@ were carried out using Excel formulae and graphs.
 
 • MS Excel – To create graphical representation of the results and to understand the
 result set better.
+
 • Dataset provided (Statistics Dataset)
